@@ -12,6 +12,6 @@ The core of the analysis focused on the sentiment scores of articles differentia
 
 We concluded that these sentiment score differences amongst politically-affiliated sources were not significant, and therefore, media bias on election was not detected on partisan lines. Some limitations of our analysis include limited content to score these articles and sentiment score’s inability to capture subjective biases. 
 
-
+To check out the full [report](report and presentation/Report.pdf)
 
 
